@@ -11,7 +11,7 @@ function InputFileImg({ noImg, setNoImg, setCustomImg }) {
 
 	return (
 		<>
-			<label htmlFor="file">Upload custom image</label>		
+			<label htmlFor="file">Upload your image</label>		
 			<input
 				id="file"
 				name="file"

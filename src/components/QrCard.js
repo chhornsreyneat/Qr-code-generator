@@ -31,8 +31,8 @@ function QrCard({ qrRef, url, bgColor, qrColor, customImg, noImg }) {
 				/>
 
 			</div>
-			<h2 className="word-wrap">{url ? url : 'x1-il.netlify.app'}</h2>
-			<p>Enter the URL of your site and create your custom Qr Code in a few seconds with a few clicks.</p>
+			<h2 className="word-wrap">{url ? url : 'Resturant'}</h2>
+			<p>Enter the URL of your site .</p>
 		</article>
 	);
 }
